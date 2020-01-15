@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "202916290011",
+    "firebase_url": "https://roomreservationlm.firebaseio.com",
+    "project_id": "roomreservationlm",
+    "storage_bucket": "roomreservationlm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202916290011:android:c978997679617a84e89bfe",
+        "android_client_info": {
+          "package_name": "com.example.oblroomreservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202916290011-paolseehdq5fgbds70sbtklrluih7mla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oblroomreservation",
+            "certificate_hash": "b7c518fe05b0221ee02b59685b3d1c5ed244dba4"
+          }
+        },
+        {
+          "client_id": "202916290011-sh0q6rf3tf2crg4r3uhn3f5qdlekc0nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ5kjqNaKBwcL60CpgAdqiEJNUoLLM-bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202916290011-sh0q6rf3tf2crg4r3uhn3f5qdlekc0nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202916290011:android:8e5e4e5cb8c07095e89bfe",
+        "android_client_info": {
+          "package_name": "com.example.roomreservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202916290011-c3dv1r8p98e5rthonajcn4f2ib0pljbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomreservation",
+            "certificate_hash": "b7c518fe05b0221ee02b59685b3d1c5ed244dba4"
+          }
+        },
+        {
+          "client_id": "202916290011-sh0q6rf3tf2crg4r3uhn3f5qdlekc0nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ5kjqNaKBwcL60CpgAdqiEJNUoLLM-bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202916290011-sh0q6rf3tf2crg4r3uhn3f5qdlekc0nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
